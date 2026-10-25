@@ -598,6 +598,8 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 - [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
+- [Running a one-on-one with a report](https://www.cheatgrid.com/checklists/engineering-manager/running-a-one-on-one-with-a-report) - A checklist for each moment of your 1:1s, from setting them up to the monthly look back. It starts with the checks not to skip: hold the slot, start with their topics, let them do most of the talking, agree actions with owners and do what you promised.
+
 ### Standups
 
 A staple of agile decorum, too often misused.
